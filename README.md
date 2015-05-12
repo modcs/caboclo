@@ -9,3 +9,5 @@ A user program performs REST calls to Caboclo selecting the desired operation (e
 -> Dropbox
 -> Microsoft OneDrive
 -> Google Drive
+
+Please, refer to the Wiki Section:  https://github.com/modcs/caboclo/wiki
